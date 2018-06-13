@@ -5,12 +5,7 @@
     <classes>
       <class name="hellofresh.APITest">
         <methods>
-          <include name="getAllCountries"/>
-          <include name="getGBCountryResp"/>
-          <include name="getInvalidCountry"/>
-          <include name="getUSCountryResp"/>
           <include name="addNewCountry"/>
-          <include name="getDECountryResp"/>
         </methods>
       </class> <!-- hellofresh.APITest -->
     </classes>
